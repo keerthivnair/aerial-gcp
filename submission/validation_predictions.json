@@ -1,0 +1,776 @@
+{
+    "Deora_Limestone_Mine_MCDR_2024_GCP25_DJI_20240420172735_0044.JPG": {
+        "mark": {
+            "x": 3202.0,
+            "y": 216.0
+        },
+        "predicted_shape": "L-Shape",
+        "true_shape": "L-Shape",
+        "pixel_error": 1.474139347645826
+    },
+    "Deora_Limestone_Mine_MCDR_2024_GCP25_DJI_20240420173113_0106.JPG": {
+        "mark": {
+            "x": 3056.0,
+            "y": 213.0
+        },
+        "predicted_shape": "L-Shape",
+        "true_shape": "L-Shape",
+        "pixel_error": 4.853930989689723
+    },
+    "231129_CTD_231129_CTD_GDA94_31_DJI_20231129125708_0308.JPG": {
+        "mark": {
+            "x": 2840.0,
+            "y": 1666.0
+        },
+        "predicted_shape": "Cross",
+        "true_shape": "Cross",
+        "pixel_error": 4.437359100841091
+    },
+    "231129_CTD_231129_CTD_GDA94_221026GCP10_DJI_20231129121839_0031.JPG": {
+        "mark": {
+            "x": 1868.0,
+            "y": 745.0
+        },
+        "predicted_shape": "Cross",
+        "true_shape": "Cross",
+        "pixel_error": 0.442079798017763
+    },
+    "231129_CTD_231129_CTD_GDA94_2_DJI_20231129130138_0429.JPG": {
+        "mark": {
+            "x": 2313.0,
+            "y": 951.0
+        },
+        "predicted_shape": "Cross",
+        "true_shape": "Cross",
+        "pixel_error": 1.9742816457435697
+    },
+    "Deora_Limestone_Mine_MCDR_2024_GCP25_DJI_20240420173211_0123.JPG": {
+        "mark": {
+            "x": 1156.0,
+            "y": 1981.0
+        },
+        "predicted_shape": "Cross",
+        "true_shape": "L-Shape",
+        "pixel_error": 0.5355215542720924
+    },
+    "231129_CTD_231129_CTD_GDA94_2_DJI_20231129130135_0428.JPG": {
+        "mark": {
+            "x": 2889.0,
+            "y": 887.0
+        },
+        "predicted_shape": "Cross",
+        "true_shape": "Cross",
+        "pixel_error": 4.332621880212322
+    },
+    "Vedanta_GOA_Bicholim_MCDR_2024_GCP29_23_4_DJI_0869.JPG": {
+        "mark": {
+            "x": 1016.0,
+            "y": 1012.0
+        },
+        "predicted_shape": "L-Shape",
+        "true_shape": "L-Shape",
+        "pixel_error": 1.359874004574135
+    },
+    "Egypt-New_city_Survey_1_16G72_DJI_20241107093609_0005.JPG": {
+        "mark": {
+            "x": 3250.0,
+            "y": 1886.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 1.6555003604067013
+    },
+    "Egypt-New_city_Survey_1_14G66_DJI_20241107100905_0078.JPG": {
+        "mark": {
+            "x": 2825.0,
+            "y": 1213.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 1.0268762109775664
+    },
+    "Vedanta_GOA_Bicholim_MCDR_2024_GCP29_22_4_DJI_0795.JPG": {
+        "mark": {
+            "x": 2748.0,
+            "y": 2313.0
+        },
+        "predicted_shape": "L-Shape",
+        "true_shape": "L-Shape",
+        "pixel_error": 6.32884221232224
+    },
+    "Seashell_Ras_el_Hekma_Survey_3_GCP25_DJI_20240605114146_0071.JPG": {
+        "mark": {
+            "x": 1738.0,
+            "y": 2524.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 1.7641034609579564
+    },
+    "Egypt-New_city_Survey_1_14G66_DJI_20241107100920_0080.JPG": {
+        "mark": {
+            "x": 3634.0,
+            "y": 2440.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 0.6937790917820515
+    },
+    "Seashell_Ras_el_Hekma_Survey_3_GCP25_DJI_20240605114218_0082.JPG": {
+        "mark": {
+            "x": 1454.0,
+            "y": 2177.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 1.3732803666422773
+    },
+    "Egypt-New_city_Survey_1_49G64_DJI_20241107101132_0094.JPG": {
+        "mark": {
+            "x": 1110.0,
+            "y": 217.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 0.7186136843668429
+    },
+    "231129_CTD_231129_CTD_GDA94_31_DJI_20231129125656_0304.JPG": {
+        "mark": {
+            "x": 1429.0,
+            "y": 1368.0
+        },
+        "predicted_shape": "Cross",
+        "true_shape": "Cross",
+        "pixel_error": 3.578553886288635
+    },
+    "Seashell_Ras_el_Hekma_Survey_3_GCP25_DJI_20240605114215_0081.JPG": {
+        "mark": {
+            "x": 2360.0,
+            "y": 2425.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 3.0748884795735756
+    },
+    "scout_966_b6b0bde0b9c22f32aba36367_GCP112_DJI_20260206095032_0714_D.JPG": {
+        "mark": {
+            "x": 3293.0,
+            "y": 2215.0
+        },
+        "predicted_shape": "Cross",
+        "true_shape": "Cross",
+        "pixel_error": 3.595957828135782
+    },
+    "Vedanta_GOA_Bicholim_MCDR_2024_GCP23_19_4_DJI_0206.JPG": {
+        "mark": {
+            "x": 2871.0,
+            "y": 2548.0
+        },
+        "predicted_shape": "L-Shape",
+        "true_shape": "L-Shape",
+        "pixel_error": 5.2821723802822325
+    },
+    "Vedanta_GOA_Bicholim_MCDR_2024_GCP23_19_4_DJI_0246.JPG": {
+        "mark": {
+            "x": 1403.0,
+            "y": 2565.0
+        },
+        "predicted_shape": "L-Shape",
+        "true_shape": "L-Shape",
+        "pixel_error": 3.1979192706269424
+    },
+    "Egypt-New_city_Survey_1_16G72_DJI_20241107094059_0035.JPG": {
+        "mark": {
+            "x": 1076.0,
+            "y": 380.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 0.9610976437118603
+    },
+    "Adani_GP-III_CG_April_2025_GCP16_DJI_20250503115357_0186_D.JPG": {
+        "mark": {
+            "x": 1602.0,
+            "y": 605.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 3.2289089779106948
+    },
+    "scout_966_b6b0bde0b9c22f32aba36367_GCP112_DJI_20260206095031_0713_D.JPG": {
+        "mark": {
+            "x": 3305.0,
+            "y": 1529.0
+        },
+        "predicted_shape": "Cross",
+        "true_shape": "Cross",
+        "pixel_error": 1.40175149737788
+    },
+    "Egypt-New_city_Survey_1_14G66_DJI_20241107100319_0042.JPG": {
+        "mark": {
+            "x": 354.0,
+            "y": 1861.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 5.860499626142523
+    },
+    "scout_966_b6b0bde0b9c22f32aba36367_GCP112_DJI_20260206095033_0715_D.JPG": {
+        "mark": {
+            "x": 2617.0,
+            "y": 2750.0
+        },
+        "predicted_shape": "Cross",
+        "true_shape": "Cross",
+        "pixel_error": 4.267982010880777
+    },
+    "Egypt-New_city_Survey_1_14G66_DJI_20241107100942_0083.JPG": {
+        "mark": {
+            "x": 3652.0,
+            "y": 1034.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 0.13425597654760704
+    },
+    "Seashell_Ras_el_Hekma_Survey_3_GCP25_DJI_20240605114135_0067.JPG": {
+        "mark": {
+            "x": 2133.0,
+            "y": 730.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 2.6898672755464528
+    },
+    "Egypt-New_city_Survey_1_14G66_DJI_20241107100931_0081.JPG": {
+        "mark": {
+            "x": 3723.0,
+            "y": 1389.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 0.78684567485986
+    },
+    "Egypt-New_city_Survey_1_49G64_DJI_20241107101418_0112.JPG": {
+        "mark": {
+            "x": 3269.0,
+            "y": 2576.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 3.1488243090340426
+    },
+    "Egypt-New_city_Survey_1_14G66_DJI_20241107100941_0082.JPG": {
+        "mark": {
+            "x": 2116.0,
+            "y": 1859.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 2.3461081711508456
+    },
+    "Egypt-New_city_Survey_1_16G72_DJI_20241107093618_0006.JPG": {
+        "mark": {
+            "x": 1217.0,
+            "y": 2510.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 3.6170791671837956
+    },
+    "Egypt-New_city_Survey_1_16G72_DJI_20241107093559_0004.JPG": {
+        "mark": {
+            "x": 355.0,
+            "y": 430.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 1.5581991661235728
+    },
+    "Egypt-New_city_Survey_1_16G72_DJI_20241107094119_0037.JPG": {
+        "mark": {
+            "x": 1663.0,
+            "y": 2085.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 3.35692038795463
+    },
+    "231129_CTD_231129_CTD_GDA94_2_DJI_20231129130145_0431.JPG": {
+        "mark": {
+            "x": 3579.0,
+            "y": 1114.0
+        },
+        "predicted_shape": "Cross",
+        "true_shape": "Cross",
+        "pixel_error": 6.069174612007354
+    },
+    "231129_CTD_231129_CTD_GDA94_31_DJI_20231129125701_0305.JPG": {
+        "mark": {
+            "x": 1440.0,
+            "y": 322.0
+        },
+        "predicted_shape": "Cross",
+        "true_shape": "Cross",
+        "pixel_error": 3.1715643986483126
+    },
+    "Vedanta_GOA_Bicholim_MCDR_2024_GCP17_12_2_DJI_0508.JPG": {
+        "mark": {
+            "x": 1640.0,
+            "y": 2151.0
+        },
+        "predicted_shape": "L-Shape",
+        "true_shape": "L-Shape",
+        "pixel_error": 6.6758302150051865
+    },
+    "Egypt-New_city_Survey_1_49G64_DJI_20241107101142_0095.JPG": {
+        "mark": {
+            "x": 1976.0,
+            "y": 1692.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 1.39793503061653
+    },
+    "Deora_Limestone_Mine_MCDR_2024_GCP25_DJI_20240420173207_0122.JPG": {
+        "mark": {
+            "x": 980.0,
+            "y": 885.0
+        },
+        "predicted_shape": "Cross",
+        "true_shape": "L-Shape",
+        "pixel_error": 0.7372529609636224
+    },
+    "231129_CTD_231129_CTD_GDA94_31_DJI_20231129125704_0306.JPG": {
+        "mark": {
+            "x": 704.0,
+            "y": 1965.0
+        },
+        "predicted_shape": "Cross",
+        "true_shape": "Cross",
+        "pixel_error": 4.950523870359003
+    },
+    "Seashell_Ras_el_Hekma_Survey_3_GCP22_DJI_20240605115154_0282.JPG": {
+        "mark": {
+            "x": 1030.0,
+            "y": 924.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 3.218098302285925
+    },
+    "scout_966_b6b0bde0b9c22f32aba36367_GCP112_DJI_20260206095029_0711_D.JPG": {
+        "mark": {
+            "x": 2344.0,
+            "y": 261.0
+        },
+        "predicted_shape": "Cross",
+        "true_shape": "Cross",
+        "pixel_error": 8.578706559800297
+    },
+    "Seashell_Ras_el_Hekma_Survey_3_GCP22_DJI_20240605132352_0089.JPG": {
+        "mark": {
+            "x": 2590.0,
+            "y": 1144.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 3.2149977459964263
+    },
+    "Seashell_Ras_el_Hekma_Survey_3_GCP22_DJI_20240605115202_0285.JPG": {
+        "mark": {
+            "x": 2017.0,
+            "y": 1949.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 2.201055604444914
+    },
+    "231129_CTD_231129_CTD_GDA94_2_DJI_20231129130147_0432.JPG": {
+        "mark": {
+            "x": 2239.0,
+            "y": 1188.0
+        },
+        "predicted_shape": "Cross",
+        "true_shape": "Cross",
+        "pixel_error": 4.446335602179923
+    },
+    "Vedanta_GOA_Bicholim_MCDR_2024_GCP25_24_5_DJI_0017.JPG": {
+        "mark": {
+            "x": 2004.0,
+            "y": 1444.0
+        },
+        "predicted_shape": "L-Shape",
+        "true_shape": "L-Shape",
+        "pixel_error": 6.46279455228572
+    },
+    "Vedanta_GOA_Bicholim_MCDR_2024_GCP29_22_4_DJI_0797.JPG": {
+        "mark": {
+            "x": 2980.0,
+            "y": 1403.0
+        },
+        "predicted_shape": "L-Shape",
+        "true_shape": "L-Shape",
+        "pixel_error": 230.60192585344907
+    },
+    "Adani_GP-III_CG_April_2025_GCP16_DJI_20250503115403_0189_D.JPG": {
+        "mark": {
+            "x": 1532.0,
+            "y": 1826.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 5.655832002690289
+    },
+    "Egypt-New_city_Survey_1_16G72_DJI_20241107094109_0036.JPG": {
+        "mark": {
+            "x": 672.0,
+            "y": 913.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 2.347802794785293
+    },
+    "Seashell_Ras_el_Hekma_Survey_3_GCP25_DJI_20240605114143_0070.JPG": {
+        "mark": {
+            "x": 780.0,
+            "y": 2561.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 1.9424640594158609
+    },
+    "Vedanta_GOA_Bicholim_MCDR_2024_GCP23_19_4_DJI_0242.JPG": {
+        "mark": {
+            "x": 662.0,
+            "y": 238.0
+        },
+        "predicted_shape": "L-Shape",
+        "true_shape": "L-Shape",
+        "pixel_error": 0.9876669122603419
+    },
+    "Adani_GP-III_CG_April_2025_GCP16_DJI_20250503115358_0187_D.JPG": {
+        "mark": {
+            "x": 1341.0,
+            "y": 607.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 2.3315818037025533
+    },
+    "Egypt-New_city_Survey_1_49G64_DJI_20241107102553_0023.JPG": {
+        "mark": {
+            "x": 3808.0,
+            "y": 832.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 1.0819453932119387
+    },
+    "Seashell_Ras_el_Hekma_Survey_3_GCP22_DJI_20240605132355_0090.JPG": {
+        "mark": {
+            "x": 2561.0,
+            "y": 1849.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 3.1953982197123323
+    },
+    "scout_966_b6b0bde0b9c22f32aba36367_GCP108_DJI_20260206094707_0551_D.JPG": {
+        "mark": {
+            "x": 1158.0,
+            "y": 467.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Cross",
+        "pixel_error": 25.03110192158676
+    },
+    "Deora_Limestone_Mine_MCDR_2024_GCP25_DJI_20240420172739_0045.JPG": {
+        "mark": {
+            "x": 2025.0,
+            "y": 479.0
+        },
+        "predicted_shape": "Cross",
+        "true_shape": "L-Shape",
+        "pixel_error": 4.689101489368022
+    },
+    "Seashell_Ras_el_Hekma_Survey_3_GCP25_DJI_20240605114158_0075.JPG": {
+        "mark": {
+            "x": 1318.0,
+            "y": 1802.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 4.232150266898094
+    },
+    "Deora_Limestone_Mine_MCDR_2024_GCP25_DJI_20240420172742_0046.JPG": {
+        "mark": {
+            "x": 2130.0,
+            "y": 1424.0
+        },
+        "predicted_shape": "Cross",
+        "true_shape": "L-Shape",
+        "pixel_error": 1.2628354401367121
+    },
+    "231129_CTD_231129_CTD_GDA94_2_DJI_20231129130143_0430.JPG": {
+        "mark": {
+            "x": 2404.0,
+            "y": 526.0
+        },
+        "predicted_shape": "Cross",
+        "true_shape": "Cross",
+        "pixel_error": 5.91375441233593
+    },
+    "231129_CTD_231129_CTD_GDA94_221026GCP10_DJI_20231129121842_0032.JPG": {
+        "mark": {
+            "x": 1841.0,
+            "y": 1340.0
+        },
+        "predicted_shape": "Cross",
+        "true_shape": "Cross",
+        "pixel_error": 2.737487597137716
+    },
+    "231129_CTD_231129_CTD_GDA94_31_DJI_20231129125706_0307.JPG": {
+        "mark": {
+            "x": 3815.0,
+            "y": 2442.0
+        },
+        "predicted_shape": "Cross",
+        "true_shape": "Cross",
+        "pixel_error": 3.260900299015208
+    },
+    "Deora_Limestone_Mine_MCDR_2024_GCP25_DJI_20240420173116_0107.JPG": {
+        "mark": {
+            "x": 3904.0,
+            "y": 905.0
+        },
+        "predicted_shape": "L-Shape",
+        "true_shape": "L-Shape",
+        "pixel_error": 0.8942341036468161
+    },
+    "Seashell_Ras_el_Hekma_Survey_3_GCP25_DJI_20240605114212_0080.JPG": {
+        "mark": {
+            "x": 2308.0,
+            "y": 2172.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 2.2293007774661495
+    },
+    "Egypt-New_city_Survey_1_14G66_DJI_20241107102303_0005.JPG": {
+        "mark": {
+            "x": 770.0,
+            "y": 176.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 1.9815674722035996
+    },
+    "Vedanta_GOA_Bicholim_MCDR_2024_GCP23_19_4_DJI_0245.JPG": {
+        "mark": {
+            "x": 915.0,
+            "y": 1945.0
+        },
+        "predicted_shape": "L-Shape",
+        "true_shape": "L-Shape",
+        "pixel_error": 0.9241341819130688
+    },
+    "Seashell_Ras_el_Hekma_Survey_3_GCP22_DJI_20240605132349_0088.JPG": {
+        "mark": {
+            "x": 652.0,
+            "y": 313.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 2.3386554241724213
+    },
+    "Egypt-New_city_Survey_1_49G64_DJI_20241107101358_0110.JPG": {
+        "mark": {
+            "x": 1930.0,
+            "y": 527.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 1.272203210911718
+    },
+    "Seashell_Ras_el_Hekma_Survey_3_GCP22_DJI_20240605132358_0091.JPG": {
+        "mark": {
+            "x": 2293.0,
+            "y": 2425.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 3.6504658789257216
+    },
+    "scout_966_b6b0bde0b9c22f32aba36367_GCP112_DJI_20260206095030_0712_D.JPG": {
+        "mark": {
+            "x": 2558.0,
+            "y": 192.0
+        },
+        "predicted_shape": "Cross",
+        "true_shape": "Cross",
+        "pixel_error": 7.2711623074438965
+    },
+    "231129_CTD_231129_CTD_GDA94_221026GCP10_DJI_20231129121801_0022.JPG": {
+        "mark": {
+            "x": 2350.0,
+            "y": 850.0
+        },
+        "predicted_shape": "Cross",
+        "true_shape": "Cross",
+        "pixel_error": 3.561083470625279
+    },
+    "Seashell_Ras_el_Hekma_Survey_3_GCP25_DJI_20240605114209_0079.JPG": {
+        "mark": {
+            "x": 975.0,
+            "y": 307.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 2.154151072211472
+    },
+    "231129_CTD_231129_CTD_GDA94_221026GCP10_DJI_20231129121758_0021.JPG": {
+        "mark": {
+            "x": 3054.0,
+            "y": 514.0
+        },
+        "predicted_shape": "Cross",
+        "true_shape": "Cross",
+        "pixel_error": 4.09482955687045
+    },
+    "Seashell_Ras_el_Hekma_Survey_3_GCP25_DJI_20240605114155_0074.JPG": {
+        "mark": {
+            "x": 375.0,
+            "y": 2019.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 3.927577876599233
+    },
+    "Egypt-New_city_Survey_1_49G64_DJI_20241107101408_0111.JPG": {
+        "mark": {
+            "x": 3160.0,
+            "y": 1018.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 2.2887181233138705
+    },
+    "Adani_GP-III_CG_April_2025_GCP16_DJI_20250503115405_0190_D.JPG": {
+        "mark": {
+            "x": 1576.0,
+            "y": 2699.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 4.642253066812683
+    },
+    "Vedanta_GOA_Bicholim_MCDR_2024_GCP25_24_5_DJI_0018.JPG": {
+        "mark": {
+            "x": 2680.0,
+            "y": 895.0
+        },
+        "predicted_shape": "L-Shape",
+        "true_shape": "L-Shape",
+        "pixel_error": 5.824257410981249
+    },
+    "Vedanta_GOA_Bicholim_MCDR_2024_GCP23_19_4_DJI_0243.JPG": {
+        "mark": {
+            "x": 683.0,
+            "y": 248.0
+        },
+        "predicted_shape": "L-Shape",
+        "true_shape": "L-Shape",
+        "pixel_error": 4.176416888619228
+    },
+    "Vedanta_GOA_Bicholim_MCDR_2024_GCP23_19_4_DJI_0207.JPG": {
+        "mark": {
+            "x": 2889.0,
+            "y": 2225.0
+        },
+        "predicted_shape": "L-Shape",
+        "true_shape": "L-Shape",
+        "pixel_error": 2.207074345328674
+    },
+    "Vedanta_GOA_Bicholim_MCDR_2024_GCP29_22_4_DJI_0796.JPG": {
+        "mark": {
+            "x": 2540.0,
+            "y": 1988.0
+        },
+        "predicted_shape": "L-Shape",
+        "true_shape": "L-Shape",
+        "pixel_error": 1.2416365499582303
+    },
+    "Egypt-New_city_Survey_1_14G66_DJI_20241107100309_0041.JPG": {
+        "mark": {
+            "x": 298.0,
+            "y": 1066.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 111.03764950000674
+    },
+    "Vedanta_GOA_Bicholim_MCDR_2024_GCP23_19_4_DJI_0209.JPG": {
+        "mark": {
+            "x": 2200.0,
+            "y": 895.0
+        },
+        "predicted_shape": "L-Shape",
+        "true_shape": "L-Shape",
+        "pixel_error": 4.4236632969373595
+    },
+    "231129_CTD_231129_CTD_GDA94_221026GCP10_DJI_20231129121804_0023.JPG": {
+        "mark": {
+            "x": 2473.0,
+            "y": 2417.0
+        },
+        "predicted_shape": "Cross",
+        "true_shape": "Cross",
+        "pixel_error": 0.9298777637828741
+    },
+    "Egypt-New_city_Survey_1_49G64_DJI_20241107102603_0024.JPG": {
+        "mark": {
+            "x": 2806.0,
+            "y": 2064.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 0.5477522633828306
+    },
+    "Egypt-New_city_Survey_1_16G72_DJI_20241107094129_0038.JPG": {
+        "mark": {
+            "x": 396.0,
+            "y": 2429.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 1.6291680483928952
+    },
+    "Vedanta_GOA_Bicholim_MCDR_2024_GCP25_24_5_DJI_0954.JPG": {
+        "mark": {
+            "x": 3924.0,
+            "y": 2407.0
+        },
+        "predicted_shape": "L-Shape",
+        "true_shape": "L-Shape",
+        "pixel_error": 2.178520013470619
+    },
+    "Seashell_Ras_el_Hekma_Survey_3_GCP25_DJI_20240605114138_0068.JPG": {
+        "mark": {
+            "x": 1844.0,
+            "y": 1830.0
+        },
+        "predicted_shape": "Square",
+        "true_shape": "Square",
+        "pixel_error": 2.758729518033344
+    },
+    "Vedanta_GOA_Bicholim_MCDR_2024_GCP23_19_4_DJI_0244.JPG": {
+        "mark": {
+            "x": 765.0,
+            "y": 1903.0
+        },
+        "predicted_shape": "L-Shape",
+        "true_shape": "L-Shape",
+        "pixel_error": 1.0082166194342361
+    }
+}

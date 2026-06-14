@@ -1,0 +1,414 @@
+--- STARTING FULL VALIDATION PIPELINE ---
+Loading Stage 1: Heavy-Duty YOLOv8...
+Loading Stage 2: Multi-Task U-Net...
+Processing Image 1/199: Deora_Limestone_Mine_MCDR_2024_GCP25_DJI_20240420172735_0044.JPG
+  -> Error: 1.47 px.
+Processing Image 2/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-98_DJI_20240425131309_0194_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 3/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP11_8_1_DJI_0717.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 4/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-44_DJI_20240422140318_0296_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 5/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-98_DJI_20240425131306_0193_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 6/199: Deora_Limestone_Mine_MCDR_2024_GCP25_DJI_20240420173113_0106.JPG
+  -> Error: 4.85 px.
+Processing Image 7/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP17_12_2_DJI_0507.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 8/199: 231129_CTD_231129_CTD_GDA94_31_DJI_20231129125708_0308.JPG
+  -> Error: 4.44 px.
+Processing Image 9/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP11_9_1_DJI_0740.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 10/199: scout_966_b6b0bde0b9c22f32aba36367_GCP108_DJI_20260206093851_0144_D.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 11/199: 231129_CTD_231129_CTD_GDA94_221026GCP10_DJI_20231129121839_0031.JPG
+  -> Error: 0.44 px.
+Processing Image 12/199: 231129_CTD_231129_CTD_GDA94_2_DJI_20231129130138_0429.JPG
+  -> Error: 1.97 px.
+Processing Image 13/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-47_DJI_20240425133754_0138_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 14/199: Deora_Limestone_Mine_MCDR_2024_GCP25_DJI_20240420173211_0123.JPG
+  -> Error: 0.54 px.
+Processing Image 15/199: 231129_CTD_231129_CTD_GDA94_2_DJI_20231129130135_0428.JPG
+  -> Error: 4.33 px.
+Processing Image 16/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP29_23_4_DJI_0869.JPG
+  -> Error: 1.36 px.
+Processing Image 17/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-44_DJI_20240422140146_0270_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 18/199: Egypt-New_city_Survey_1_16G72_DJI_20241107093609_0005.JPG
+  -> Error: 1.66 px.
+Processing Image 19/199: Egypt-New_city_Survey_1_14G66_DJI_20241107100905_0078.JPG
+  -> Error: 1.03 px.
+Processing Image 20/199: Adani_GP-III_CG_April_2025_GCP4_DJI_20250502123529_0072_D.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 21/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP29_22_4_DJI_0795.JPG
+  -> Error: 6.33 px.
+Processing Image 22/199: Seashell_Ras_el_Hekma_Survey_3_GCP25_DJI_20240605114149_0072.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 23/199: Seashell_Ras_el_Hekma_Survey_3_GCP25_DJI_20240605114146_0071.JPG
+  -> Error: 1.76 px.
+Processing Image 24/199: Egypt-New_city_Survey_1_14G66_DJI_20241107100920_0080.JPG
+  -> Error: 0.69 px.
+Processing Image 25/199: Adani_GP-III_CG_April_2025_GCP4_DJI_20250502123938_0163_D.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 26/199: Seashell_Ras_el_Hekma_Survey_3_GCP25_DJI_20240605114218_0082.JPG
+  -> Error: 1.37 px.
+Processing Image 27/199: Egypt-New_city_Survey_1_49G64_DJI_20241107101132_0094.JPG
+  -> Error: 0.72 px.
+Processing Image 28/199: 231129_CTD_231129_CTD_GDA94_31_DJI_20231129125656_0304.JPG
+  -> Error: 3.58 px.
+Processing Image 29/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP17_12_2_DJI_0559.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 30/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-33_DJI_20240425134431_0254_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 31/199: scout_966_b6b0bde0b9c22f32aba36367_GCP108_DJI_20260206093850_0143_D.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 32/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-47_DJI_20240425133445_0081_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 33/199: scout_971_5d23fdf012559a53294673aa_PGCP36_7_DJI_0589.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 34/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-98_DJI_20240425131312_0195_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 35/199: Seashell_Ras_el_Hekma_Survey_3_GCP25_DJI_20240605114215_0081.JPG
+  -> Error: 3.07 px.
+Processing Image 36/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP29_23_4_DJI_0868.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 37/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP17_12_2_DJI_0557.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 38/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP25_24_5_DJI_0019.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 39/199: scout_966_b6b0bde0b9c22f32aba36367_GCP112_DJI_20260206095032_0714_D.JPG
+  -> Error: 3.60 px.
+Processing Image 40/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-34_DJI_20240425131928_0307_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 41/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP23_19_4_DJI_0206.JPG
+  -> Error: 5.28 px.
+Processing Image 42/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP23_19_4_DJI_0246.JPG
+  -> Error: 3.20 px.
+Processing Image 43/199: Seashell_Ras_el_Hekma_Survey_3_GCP22_DJI_20240605115159_0284.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 44/199: Egypt-New_city_Survey_1_16G72_DJI_20241107094059_0035.JPG
+  -> Error: 0.96 px.
+Processing Image 45/199: Adani_GP-III_CG_April_2025_GCP16_DJI_20250503115357_0186_D.JPG
+  -> Error: 3.23 px.
+Processing Image 46/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP11_9_1_DJI_0741.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 47/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP11_8_1_DJI_0739.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 48/199: scout_966_b6b0bde0b9c22f32aba36367_GCP112_DJI_20260206095031_0713_D.JPG
+  -> Error: 1.40 px.
+Processing Image 49/199: Adani_GP-III_CG_April_2025_GCP4_DJI_20250502124230_0229_D.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 50/199: Egypt-New_city_Survey_1_14G66_DJI_20241107100319_0042.JPG
+  -> Error: 5.86 px.
+Processing Image 51/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-34_DJI_20240425132138_0345_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 52/199: scout_966_b6b0bde0b9c22f32aba36367_GCP108_DJI_20260206094706_0550_D.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 53/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-98_DJI_20240425131303_0192_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 54/199: Adani_GP-III_CG_April_2025_GCP16_DJI_20250503115400_0188_D.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 55/199: scout_966_b6b0bde0b9c22f32aba36367_GCP112_DJI_20260206095033_0715_D.JPG
+  -> Error: 4.27 px.
+Processing Image 56/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-34_DJI_20240425131934_0309_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 57/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-33_DJI_20240425134228_0218_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 58/199: Egypt-New_city_Survey_1_14G66_DJI_20241107100942_0083.JPG
+  -> Error: 0.13 px.
+Processing Image 59/199: Seashell_Ras_el_Hekma_Survey_3_GCP25_DJI_20240605114135_0067.JPG
+  -> Error: 2.69 px.
+Processing Image 60/199: Egypt-New_city_Survey_1_14G66_DJI_20241107100931_0081.JPG
+  -> Error: 0.79 px.
+Processing Image 61/199: Egypt-New_city_Survey_1_49G64_DJI_20241107101418_0112.JPG
+  -> Error: 3.15 px.
+Processing Image 62/199: Egypt-New_city_Survey_1_14G66_DJI_20241107100941_0082.JPG
+  -> Error: 2.35 px.
+Processing Image 63/199: Egypt-New_city_Survey_1_16G72_DJI_20241107093618_0006.JPG
+  -> Error: 3.62 px.
+Processing Image 64/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP17_12_2_DJI_0558.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 65/199: Egypt-New_city_Survey_1_16G72_DJI_20241107093559_0004.JPG
+  -> Error: 1.56 px.
+Processing Image 66/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP29_24_4_DJI_0870.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 67/199: Egypt-New_city_Survey_1_16G72_DJI_20241107094119_0037.JPG
+  -> Error: 3.36 px.
+Processing Image 68/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP25_24_5_DJI_0016.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 69/199: 231129_CTD_231129_CTD_GDA94_2_DJI_20231129130145_0431.JPG
+  -> Error: 6.07 px.
+Processing Image 70/199: 231129_CTD_231129_CTD_GDA94_31_DJI_20231129125701_0305.JPG
+  -> Error: 3.17 px.
+Processing Image 71/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-25_DJI_20240426104152_0187_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 72/199: Adani_GP-III_CG_April_2025_GCP4_DJI_20250502124228_0228_D.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 73/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP17_12_2_DJI_0508.JPG
+  -> Error: 6.68 px.
+Processing Image 74/199: scout_966_a7ee1866bbb652c2d0b92546_GCP63_DJI_20260211102505_0121_D.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 75/199: Adani_GP-III_CG_April_2025_GCP4_DJI_20250502123527_0071_D.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 76/199: Adani_GP-III_CG_April_2025_GCP4_DJI_20250502123936_0162_D.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 77/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-33_DJI_20240425134559_0280_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 78/199: Seashell_Ras_el_Hekma_Survey_3_GCP22_DJI_20240605115151_0281.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 79/199: scout_966_b6b0bde0b9c22f32aba36367_GCP108_DJI_20260206094708_0552_D.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 80/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP03_3_DJI_0425.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 81/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-47_DJI_20240425133439_0079_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 82/199: Adani_GP-III_CG_April_2025_GCP4_DJI_20250502123524_0070_D.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 83/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP25_24_5_DJI_0951.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 84/199: Seashell_Ras_el_Hekma_Survey_3_GCP25_DJI_20240605114141_0069.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 85/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-98_DJI_20240425131555_0244_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 86/199: Egypt-New_city_Survey_1_49G64_DJI_20241107101142_0095.JPG
+  -> Error: 1.40 px.
+Processing Image 87/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-34_DJI_20240425132147_0348_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 88/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-25_DJI_20240426103921_0152_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 89/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-47_DJI_20240424161009_0013_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 90/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-25_DJI_20240426103913_0150_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 91/199: Adani_GP-III_CG_April_2025_GCP16_DJI_20250503115105_0110_D.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 92/199: Deora_Limestone_Mine_MCDR_2024_GCP25_DJI_20240420173207_0122.JPG
+  -> Error: 0.74 px.
+Processing Image 93/199: Seashell_Ras_el_Hekma_Survey_3_GCP5_DJI_20240605132234_0062.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 94/199: 231129_CTD_231129_CTD_GDA94_31_DJI_20231129125704_0306.JPG
+  -> Error: 4.95 px.
+Processing Image 95/199: Seashell_Ras_el_Hekma_Survey_3_GCP22_DJI_20240605115154_0282.JPG
+  -> Error: 3.22 px.
+Processing Image 96/199: scout_966_b6b0bde0b9c22f32aba36367_GCP111_DJI_20260206095114_0750_D.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 97/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP03_3_DJI_0448.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 98/199: Egypt-New_city_Survey_1_49G64_DJI_20241107101202_0097.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 99/199: Seashell_Ras_el_Hekma_Survey_3_GCP5_DJI_20240605132102_0030.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 100/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-47_DJI_20240425133442_0080_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 101/199: Seashell_Ras_el_Hekma_Survey_3_GCP5_DJI_20240605132231_0061.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 102/199: scout_966_b6b0bde0b9c22f32aba36367_GCP112_DJI_20260206095029_0711_D.JPG
+  -> Error: 8.58 px.
+Processing Image 103/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-34_DJI_20240425131925_0306_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 104/199: scout_966_b6b0bde0b9c22f32aba36367_GCP92_DJI_20260207115005_0719_D.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 105/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP25_24_5_DJI_0950.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 106/199: Seashell_Ras_el_Hekma_Survey_3_GCP22_DJI_20240605132352_0089.JPG
+  -> Error: 3.21 px.
+Processing Image 107/199: scout_966_b6b0bde0b9c22f32aba36367_GCP108_DJI_20260206093852_0145_D.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 108/199: Seashell_Ras_el_Hekma_Survey_3_GCP22_DJI_20240605115202_0285.JPG
+  -> Error: 2.20 px.
+Processing Image 109/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP11_8_1_DJI_0718.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 110/199: 231129_CTD_231129_CTD_GDA94_2_DJI_20231129130147_0432.JPG
+  -> Error: 4.45 px.
+Processing Image 111/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP25_24_5_DJI_0017.JPG
+  -> Error: 6.46 px.
+Processing Image 112/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP11_8_1_DJI_0715.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 113/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP03_3_DJI_0451.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 114/199: Seashell_Ras_el_Hekma_Survey_3_GCP5_DJI_20240605132054_0027.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 115/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP29_22_4_DJI_0797.JPG
+  -> Error: 230.60 px.
+Processing Image 116/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-44_DJI_20240422140143_0269_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 117/199: Adani_GP-III_CG_April_2025_GCP16_DJI_20250503115403_0189_D.JPG
+  -> Error: 5.66 px.
+Processing Image 118/199: Egypt-New_city_Survey_1_16G72_DJI_20241107094109_0036.JPG
+  -> Error: 2.35 px.
+Processing Image 119/199: Seashell_Ras_el_Hekma_Survey_3_GCP25_DJI_20240605114143_0070.JPG
+  -> Error: 1.94 px.
+Processing Image 120/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-34_DJI_20240425131931_0308_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 121/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP03_3_DJI_0427.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 122/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP17_12_2_DJI_0555.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 123/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-33_DJI_20240425134420_0251_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 124/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP23_19_4_DJI_0242.JPG
+  -> Error: 0.99 px.
+Processing Image 125/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-44_DJI_20240422140315_0295_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 126/199: Adani_GP-III_CG_April_2025_GCP4_DJI_20250502123933_0161_D.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 127/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP11_8_1_DJI_0736.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 128/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-25_DJI_20240426104200_0189_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 129/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP03_3_DJI_0450.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 130/199: scout_966_b6b0bde0b9c22f32aba36367_GCP108_DJI_20260206093853_0146_D.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 131/199: Adani_GP-III_CG_April_2025_GCP16_DJI_20250503115358_0187_D.JPG
+  -> Error: 2.33 px.
+Processing Image 132/199: Egypt-New_city_Survey_1_49G64_DJI_20241107102553_0023.JPG
+  -> Error: 1.08 px.
+Processing Image 133/199: Seashell_Ras_el_Hekma_Survey_3_GCP22_DJI_20240605132355_0090.JPG
+  -> Error: 3.20 px.
+Processing Image 134/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-47_DJI_20240424161012_0014_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 135/199: scout_966_b6b0bde0b9c22f32aba36367_GCP108_DJI_20260206094707_0551_D.JPG
+  -> Error: 25.03 px.
+Processing Image 136/199: Deora_Limestone_Mine_MCDR_2024_GCP25_DJI_20240420172739_0045.JPG
+  -> Error: 4.69 px.
+Processing Image 137/199: Seashell_Ras_el_Hekma_Survey_3_GCP5_DJI_20240605132105_0031.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 138/199: Seashell_Ras_el_Hekma_Survey_3_GCP25_DJI_20240605114158_0075.JPG
+  -> Error: 4.23 px.
+Processing Image 139/199: Deora_Limestone_Mine_MCDR_2024_GCP25_DJI_20240420172742_0046.JPG
+  -> Error: 1.26 px.
+Processing Image 140/199: 231129_CTD_231129_CTD_GDA94_2_DJI_20231129130143_0430.JPG
+  -> Error: 5.91 px.
+Processing Image 141/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-47_DJI_20240424161015_0015_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 142/199: 231129_CTD_231129_CTD_GDA94_221026GCP10_DJI_20231129121842_0032.JPG
+  -> Error: 2.74 px.
+Processing Image 143/199: 231129_CTD_231129_CTD_GDA94_31_DJI_20231129125706_0307.JPG
+  -> Error: 3.26 px.
+Processing Image 144/199: Seashell_Ras_el_Hekma_Survey_3_GCP5_DJI_20240605132707_0157.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 145/199: Deora_Limestone_Mine_MCDR_2024_GCP25_DJI_20240420173116_0107.JPG
+  -> Error: 0.89 px.
+Processing Image 146/199: scout_966_b6b0bde0b9c22f32aba36367_GCP111_DJI_20260206095115_0751_D.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 147/199: Seashell_Ras_el_Hekma_Survey_3_GCP25_DJI_20240605114212_0080.JPG
+  -> Error: 2.23 px.
+Processing Image 148/199: Egypt-New_city_Survey_1_14G66_DJI_20241107102303_0005.JPG
+  -> Error: 1.98 px.
+Processing Image 149/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-34_DJI_20240425132141_0346_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 150/199: scout_966_b6b0bde0b9c22f32aba36367_GCP82_DJI_20260207114132_0353_D.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 151/199: scout_966_b6b0bde0b9c22f32aba36367_GCP108_DJI_20260206094710_0554_D.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 152/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP23_19_4_DJI_0245.JPG
+  -> Error: 0.92 px.
+Processing Image 153/199: Seashell_Ras_el_Hekma_Survey_3_GCP22_DJI_20240605132349_0088.JPG
+  -> Error: 2.34 px.
+Processing Image 154/199: Egypt-New_city_Survey_1_49G64_DJI_20241107101358_0110.JPG
+  -> Error: 1.27 px.
+Processing Image 155/199: Seashell_Ras_el_Hekma_Survey_3_GCP22_DJI_20240605132358_0091.JPG
+  -> Error: 3.65 px.
+Processing Image 156/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-33_DJI_20240425134425_0252_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 157/199: Deora_Limestone_Mine_MCDR_2024_GCP25_DJI_20240420173120_0108.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 158/199: scout_966_b6b0bde0b9c22f32aba36367_GCP112_DJI_20260206095030_0712_D.JPG
+  -> Error: 7.27 px.
+Processing Image 159/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-33_DJI_20240425134428_0253_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 160/199: 231129_CTD_231129_CTD_GDA94_221026GCP10_DJI_20231129121801_0022.JPG
+  -> Error: 3.56 px.
+Processing Image 161/199: Seashell_Ras_el_Hekma_Survey_3_GCP25_DJI_20240605114209_0079.JPG
+  -> Error: 2.15 px.
+Processing Image 162/199: 231129_CTD_231129_CTD_GDA94_221026GCP10_DJI_20231129121758_0021.JPG
+  -> Error: 4.09 px.
+Processing Image 163/199: Seashell_Ras_el_Hekma_Survey_3_GCP25_DJI_20240605114155_0074.JPG
+  -> Error: 3.93 px.
+Processing Image 164/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-44_DJI_20240422140311_0294_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 165/199: Egypt-New_city_Survey_1_49G64_DJI_20241107101408_0111.JPG
+  -> Error: 2.29 px.
+Processing Image 166/199: scout_966_b6b0bde0b9c22f32aba36367_GCP92_DJI_20260207115006_0720_D.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 167/199: Adani_GP-III_CG_April_2025_GCP16_DJI_20250503115405_0190_D.JPG
+  -> Error: 4.64 px.
+Processing Image 168/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP29_23_4_DJI_0867.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 169/199: Adani_GP-III_CG_April_2025_GCP16_DJI_20250503115355_0185_D.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 170/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP25_24_5_DJI_0018.JPG
+  -> Error: 5.82 px.
+Processing Image 171/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP23_19_4_DJI_0243.JPG
+  -> Error: 4.18 px.
+Processing Image 172/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-25_DJI_20240426104204_0190_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 173/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP03_3_DJI_0464.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 174/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP17_12_2_DJI_0556.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 175/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP23_19_4_DJI_0207.JPG
+  -> Error: 2.21 px.
+Processing Image 176/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP29_22_4_DJI_0796.JPG
+  -> Error: 1.24 px.
+Processing Image 177/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP11_8_1_DJI_0716.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 178/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-47_DJI_20240425133416_0074_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 179/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-34_DJI_20240425132144_0347_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 180/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-33_DJI_20240425134556_0279_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 181/199: Egypt-New_city_Survey_1_14G66_DJI_20241107100309_0041.JPG
+  -> Error: 111.04 px.
+Processing Image 182/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP23_19_4_DJI_0209.JPG
+  -> Error: 4.42 px.
+Processing Image 183/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP29_22_4_DJI_0798.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 184/199: 231129_CTD_231129_CTD_GDA94_221026GCP10_DJI_20231129121804_0023.JPG
+  -> Error: 0.93 px.
+Processing Image 185/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP17_11_2_DJI_0436.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 186/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-25_DJI_20240426103925_0153_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 187/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP03_3_DJI_0463.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 188/199: Egypt-New_city_Survey_1_49G64_DJI_20241107102603_0024.JPG
+  -> Error: 0.55 px.
+Processing Image 189/199: Egypt-New_city_Survey_1_16G72_DJI_20241107094129_0038.JPG
+  -> Error: 1.63 px.
+Processing Image 190/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-98_DJI_20240425131549_0242_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 191/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP25_24_5_DJI_0954.JPG
+  -> Error: 2.18 px.
+Processing Image 192/199: Seashell_Ras_el_Hekma_Survey_3_GCP25_DJI_20240605114138_0068.JPG
+  -> Error: 2.76 px.
+Processing Image 193/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP03_3_DJI_0449.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 194/199: Seashell_Ras_el_Hekma_Survey_3_GCP22_DJI_20240605115156_0283.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 195/199: Seashell_Ras_el_Hekma_Survey_3_GCP5_DJI_20240605132228_0060.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 196/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-98_DJI_20240425131552_0243_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 197/199: Vedanta_GOA_Bicholim_MCDR_2024_GCP23_19_4_DJI_0244.JPG
+  -> Error: 1.01 px.
+Processing Image 198/199: UTCL_UNCL_Additional_Area_Survey-1_GCP-25_DJI_20240426103917_0151_V.JPG
+  -> YOLO failed to find GCP. Skipping.
+Processing Image 199/199: Seashell_Ras_el_Hekma_Survey_3_GCP5_DJI_20240605132059_0029.JPG
+  -> YOLO failed to find GCP. Skipping.
+
+=============================================
+ END-TO-END PIPELINE SUMMARY (submission/validation_report.txt) 
+=============================================
+YOLO Success Rate (Pipeline Recall): 43.2%
+Localization - Sub-Pixel RMSE: 7.10 px
+Localization - PCK @ 10px: 96.5%
+Localization - PCK @ 25px: 96.5%
+Localization - PCK @ 50px: 97.7%
+Classification - Macro F1-Score: 92.7%
+
+Saved validation predictions to: submission/validation_predictions.json
+=============================================

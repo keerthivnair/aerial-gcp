@@ -1,0 +1,31 @@
+# Datasets and Massive Images
+data/
+results_valid_images/
+results_test_images/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Model Weights (Do not push to GitHub)
+*.pt
+*.pth
+*.onnx
+*.onnx.data
+yolo_weights/
+
+# IDEs
+.vscode/
+.idea/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# (Note: yolo_weights.pt, gcp_unet.pth, and gcp_unet.onnx are NOT ignored 
+# because they are required for inference, but if they exceed GitHub's 100MB limit, 
+# you will need to use Git LFS)
