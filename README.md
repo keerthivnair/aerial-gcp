@@ -25,7 +25,7 @@ Because the trained model weights (`gcp_unet.pth`, `gcp_unet.onnx`, and `yolo_we
 
 To run the inference scripts, you MUST first download the weights from the secure Google Drive link below and place them directly in the root folder of this repository:
 
-**Download Weights Here:** `[Insert Google Drive Link Here]`
+**Download Weights Here:** `https://drive.google.com/drive/folders/1OlQZ7WlwhmWScsW_aTKR-LtM55LWGRPI?usp=sharing`
 
 ## Repository Structure
 
