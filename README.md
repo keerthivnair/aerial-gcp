@@ -21,11 +21,11 @@ We chose a **Two-Stage Pipeline** over a single end-to-end detector (like purely
 
 ## Model Weights (Download Instructions)
 
-Because our entire pipeline was engineered to be highly efficient, all trained weights (`gcp_unet.pth`, `gcp_unet.onnx`, and `yolo_weights.pt`) are **under 100MB** and have been directly committed to this GitHub repository! 
+Because the trained model weights (`gcp_unet.pth`, `gcp_unet.onnx`, and `yolo_weights.pt`) exceed GitHub's strict file size limits, they are **NOT** included directly in this repository.
 
-There is no need to configure Git LFS or connect to an AWS S3 bucket. Simply clone this repository, and the weights are instantly ready for inference out-of-the-box.
+To run the inference scripts, you MUST first download the weights from the secure Google Drive link below and place them directly in the root folder of this repository:
 
-*(However, if the grading system requires a direct external link, the weights are also securely backed up here: `[Insert Google Drive Link Here]`)*
+**Download Weights Here:** `[Insert Google Drive Link Here]`
 
 ## Repository Structure
 
