@@ -120,7 +120,7 @@ def run_end_to_end():
         
         validation_predictions[os.path.basename(img_path)] = {
             "mark": {"x": float(final_global_x), "y": float(final_global_y)},
-            "predicted_shape": predicted_shape,
+            "verified_shape": predicted_shape,
             "true_shape": true_shape,
             "pixel_error": error
         }

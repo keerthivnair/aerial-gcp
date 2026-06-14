@@ -90,10 +90,11 @@ def generate_full_report(test_dir='data/test/'):
             
             success_count += 1
             
-            # Use relative path style or just basename if exact spec unknown. Basename is safest.
-            predictions_dict[filename] = {
+            rel_path = os.path.relpath(img_path, test_dir)
+            
+            predictions_dict[rel_path] = {
                 "mark": {"x": float(final_global_x), "y": float(final_global_y)},
-                "shape": predicted_shape
+                "verified_shape": predicted_shape
             }
             
             if (i+1) % 10 == 0:
