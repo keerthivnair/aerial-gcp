@@ -4,7 +4,7 @@
             "x": 3202.0,
             "y": 216.0
         },
-        "predicted_shape": "L-Shape",
+        "verified_shape": "L-Shape",
         "true_shape": "L-Shape",
         "pixel_error": 1.474139347645826
     },
@@ -13,7 +13,7 @@
             "x": 3056.0,
             "y": 213.0
         },
-        "predicted_shape": "L-Shape",
+        "verified_shape": "L-Shape",
         "true_shape": "L-Shape",
         "pixel_error": 4.853930989689723
     },
@@ -22,7 +22,7 @@
             "x": 2840.0,
             "y": 1666.0
         },
-        "predicted_shape": "Cross",
+        "verified_shape": "Cross",
         "true_shape": "Cross",
         "pixel_error": 4.437359100841091
     },
@@ -31,7 +31,7 @@
             "x": 1868.0,
             "y": 745.0
         },
-        "predicted_shape": "Cross",
+        "verified_shape": "Cross",
         "true_shape": "Cross",
         "pixel_error": 0.442079798017763
     },
@@ -40,7 +40,7 @@
             "x": 2313.0,
             "y": 951.0
         },
-        "predicted_shape": "Cross",
+        "verified_shape": "Cross",
         "true_shape": "Cross",
         "pixel_error": 1.9742816457435697
     },
@@ -49,7 +49,7 @@
             "x": 1156.0,
             "y": 1981.0
         },
-        "predicted_shape": "Cross",
+        "verified_shape": "Cross",
         "true_shape": "L-Shape",
         "pixel_error": 0.5355215542720924
     },
@@ -58,7 +58,7 @@
             "x": 2889.0,
             "y": 887.0
         },
-        "predicted_shape": "Cross",
+        "verified_shape": "Cross",
         "true_shape": "Cross",
         "pixel_error": 4.332621880212322
     },
@@ -67,7 +67,7 @@
             "x": 1016.0,
             "y": 1012.0
         },
-        "predicted_shape": "L-Shape",
+        "verified_shape": "L-Shape",
         "true_shape": "L-Shape",
         "pixel_error": 1.359874004574135
     },
@@ -76,7 +76,7 @@
             "x": 3250.0,
             "y": 1886.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 1.6555003604067013
     },
@@ -85,7 +85,7 @@
             "x": 2825.0,
             "y": 1213.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 1.0268762109775664
     },
@@ -94,7 +94,7 @@
             "x": 2748.0,
             "y": 2313.0
         },
-        "predicted_shape": "L-Shape",
+        "verified_shape": "L-Shape",
         "true_shape": "L-Shape",
         "pixel_error": 6.32884221232224
     },
@@ -103,7 +103,7 @@
             "x": 1738.0,
             "y": 2524.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 1.7641034609579564
     },
@@ -112,7 +112,7 @@
             "x": 3634.0,
             "y": 2440.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 0.6937790917820515
     },
@@ -121,7 +121,7 @@
             "x": 1454.0,
             "y": 2177.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 1.3732803666422773
     },
@@ -130,7 +130,7 @@
             "x": 1110.0,
             "y": 217.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 0.7186136843668429
     },
@@ -139,7 +139,7 @@
             "x": 1429.0,
             "y": 1368.0
         },
-        "predicted_shape": "Cross",
+        "verified_shape": "Cross",
         "true_shape": "Cross",
         "pixel_error": 3.578553886288635
     },
@@ -148,7 +148,7 @@
             "x": 2360.0,
             "y": 2425.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 3.0748884795735756
     },
@@ -157,7 +157,7 @@
             "x": 3293.0,
             "y": 2215.0
         },
-        "predicted_shape": "Cross",
+        "verified_shape": "Cross",
         "true_shape": "Cross",
         "pixel_error": 3.595957828135782
     },
@@ -166,7 +166,7 @@
             "x": 2871.0,
             "y": 2548.0
         },
-        "predicted_shape": "L-Shape",
+        "verified_shape": "L-Shape",
         "true_shape": "L-Shape",
         "pixel_error": 5.2821723802822325
     },
@@ -175,7 +175,7 @@
             "x": 1403.0,
             "y": 2565.0
         },
-        "predicted_shape": "L-Shape",
+        "verified_shape": "L-Shape",
         "true_shape": "L-Shape",
         "pixel_error": 3.1979192706269424
     },
@@ -184,7 +184,7 @@
             "x": 1076.0,
             "y": 380.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 0.9610976437118603
     },
@@ -193,7 +193,7 @@
             "x": 1602.0,
             "y": 605.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 3.2289089779106948
     },
@@ -202,7 +202,7 @@
             "x": 3305.0,
             "y": 1529.0
         },
-        "predicted_shape": "Cross",
+        "verified_shape": "Cross",
         "true_shape": "Cross",
         "pixel_error": 1.40175149737788
     },
@@ -211,7 +211,7 @@
             "x": 354.0,
             "y": 1861.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 5.860499626142523
     },
@@ -220,7 +220,7 @@
             "x": 2617.0,
             "y": 2750.0
         },
-        "predicted_shape": "Cross",
+        "verified_shape": "Cross",
         "true_shape": "Cross",
         "pixel_error": 4.267982010880777
     },
@@ -229,7 +229,7 @@
             "x": 3652.0,
             "y": 1034.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 0.13425597654760704
     },
@@ -238,7 +238,7 @@
             "x": 2133.0,
             "y": 730.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 2.6898672755464528
     },
@@ -247,7 +247,7 @@
             "x": 3723.0,
             "y": 1389.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 0.78684567485986
     },
@@ -256,7 +256,7 @@
             "x": 3269.0,
             "y": 2576.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 3.1488243090340426
     },
@@ -265,7 +265,7 @@
             "x": 2116.0,
             "y": 1859.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 2.3461081711508456
     },
@@ -274,7 +274,7 @@
             "x": 1217.0,
             "y": 2510.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 3.6170791671837956
     },
@@ -283,7 +283,7 @@
             "x": 355.0,
             "y": 430.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 1.5581991661235728
     },
@@ -292,7 +292,7 @@
             "x": 1663.0,
             "y": 2085.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 3.35692038795463
     },
@@ -301,7 +301,7 @@
             "x": 3579.0,
             "y": 1114.0
         },
-        "predicted_shape": "Cross",
+        "verified_shape": "Cross",
         "true_shape": "Cross",
         "pixel_error": 6.069174612007354
     },
@@ -310,7 +310,7 @@
             "x": 1440.0,
             "y": 322.0
         },
-        "predicted_shape": "Cross",
+        "verified_shape": "Cross",
         "true_shape": "Cross",
         "pixel_error": 3.1715643986483126
     },
@@ -319,7 +319,7 @@
             "x": 1640.0,
             "y": 2151.0
         },
-        "predicted_shape": "L-Shape",
+        "verified_shape": "L-Shape",
         "true_shape": "L-Shape",
         "pixel_error": 6.6758302150051865
     },
@@ -328,7 +328,7 @@
             "x": 1976.0,
             "y": 1692.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 1.39793503061653
     },
@@ -337,7 +337,7 @@
             "x": 980.0,
             "y": 885.0
         },
-        "predicted_shape": "Cross",
+        "verified_shape": "Cross",
         "true_shape": "L-Shape",
         "pixel_error": 0.7372529609636224
     },
@@ -346,7 +346,7 @@
             "x": 704.0,
             "y": 1965.0
         },
-        "predicted_shape": "Cross",
+        "verified_shape": "Cross",
         "true_shape": "Cross",
         "pixel_error": 4.950523870359003
     },
@@ -355,7 +355,7 @@
             "x": 1030.0,
             "y": 924.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 3.218098302285925
     },
@@ -364,7 +364,7 @@
             "x": 2344.0,
             "y": 261.0
         },
-        "predicted_shape": "Cross",
+        "verified_shape": "Cross",
         "true_shape": "Cross",
         "pixel_error": 8.578706559800297
     },
@@ -373,7 +373,7 @@
             "x": 2590.0,
             "y": 1144.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 3.2149977459964263
     },
@@ -382,7 +382,7 @@
             "x": 2017.0,
             "y": 1949.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 2.201055604444914
     },
@@ -391,7 +391,7 @@
             "x": 2239.0,
             "y": 1188.0
         },
-        "predicted_shape": "Cross",
+        "verified_shape": "Cross",
         "true_shape": "Cross",
         "pixel_error": 4.446335602179923
     },
@@ -400,7 +400,7 @@
             "x": 2004.0,
             "y": 1444.0
         },
-        "predicted_shape": "L-Shape",
+        "verified_shape": "L-Shape",
         "true_shape": "L-Shape",
         "pixel_error": 6.46279455228572
     },
@@ -409,7 +409,7 @@
             "x": 2980.0,
             "y": 1403.0
         },
-        "predicted_shape": "L-Shape",
+        "verified_shape": "L-Shape",
         "true_shape": "L-Shape",
         "pixel_error": 230.60192585344907
     },
@@ -418,7 +418,7 @@
             "x": 1532.0,
             "y": 1826.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 5.655832002690289
     },
@@ -427,7 +427,7 @@
             "x": 672.0,
             "y": 913.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 2.347802794785293
     },
@@ -436,7 +436,7 @@
             "x": 780.0,
             "y": 2561.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 1.9424640594158609
     },
@@ -445,7 +445,7 @@
             "x": 662.0,
             "y": 238.0
         },
-        "predicted_shape": "L-Shape",
+        "verified_shape": "L-Shape",
         "true_shape": "L-Shape",
         "pixel_error": 0.9876669122603419
     },
@@ -454,7 +454,7 @@
             "x": 1341.0,
             "y": 607.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 2.3315818037025533
     },
@@ -463,7 +463,7 @@
             "x": 3808.0,
             "y": 832.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 1.0819453932119387
     },
@@ -472,7 +472,7 @@
             "x": 2561.0,
             "y": 1849.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 3.1953982197123323
     },
@@ -481,7 +481,7 @@
             "x": 1158.0,
             "y": 467.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Cross",
         "pixel_error": 25.03110192158676
     },
@@ -490,7 +490,7 @@
             "x": 2025.0,
             "y": 479.0
         },
-        "predicted_shape": "Cross",
+        "verified_shape": "Cross",
         "true_shape": "L-Shape",
         "pixel_error": 4.689101489368022
     },
@@ -499,7 +499,7 @@
             "x": 1318.0,
             "y": 1802.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 4.232150266898094
     },
@@ -508,7 +508,7 @@
             "x": 2130.0,
             "y": 1424.0
         },
-        "predicted_shape": "Cross",
+        "verified_shape": "Cross",
         "true_shape": "L-Shape",
         "pixel_error": 1.2628354401367121
     },
@@ -517,7 +517,7 @@
             "x": 2404.0,
             "y": 526.0
         },
-        "predicted_shape": "Cross",
+        "verified_shape": "Cross",
         "true_shape": "Cross",
         "pixel_error": 5.91375441233593
     },
@@ -526,7 +526,7 @@
             "x": 1841.0,
             "y": 1340.0
         },
-        "predicted_shape": "Cross",
+        "verified_shape": "Cross",
         "true_shape": "Cross",
         "pixel_error": 2.737487597137716
     },
@@ -535,7 +535,7 @@
             "x": 3815.0,
             "y": 2442.0
         },
-        "predicted_shape": "Cross",
+        "verified_shape": "Cross",
         "true_shape": "Cross",
         "pixel_error": 3.260900299015208
     },
@@ -544,7 +544,7 @@
             "x": 3904.0,
             "y": 905.0
         },
-        "predicted_shape": "L-Shape",
+        "verified_shape": "L-Shape",
         "true_shape": "L-Shape",
         "pixel_error": 0.8942341036468161
     },
@@ -553,7 +553,7 @@
             "x": 2308.0,
             "y": 2172.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 2.2293007774661495
     },
@@ -562,7 +562,7 @@
             "x": 770.0,
             "y": 176.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 1.9815674722035996
     },
@@ -571,7 +571,7 @@
             "x": 915.0,
             "y": 1945.0
         },
-        "predicted_shape": "L-Shape",
+        "verified_shape": "L-Shape",
         "true_shape": "L-Shape",
         "pixel_error": 0.9241341819130688
     },
@@ -580,7 +580,7 @@
             "x": 652.0,
             "y": 313.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 2.3386554241724213
     },
@@ -589,7 +589,7 @@
             "x": 1930.0,
             "y": 527.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 1.272203210911718
     },
@@ -598,7 +598,7 @@
             "x": 2293.0,
             "y": 2425.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 3.6504658789257216
     },
@@ -607,7 +607,7 @@
             "x": 2558.0,
             "y": 192.0
         },
-        "predicted_shape": "Cross",
+        "verified_shape": "Cross",
         "true_shape": "Cross",
         "pixel_error": 7.2711623074438965
     },
@@ -616,7 +616,7 @@
             "x": 2350.0,
             "y": 850.0
         },
-        "predicted_shape": "Cross",
+        "verified_shape": "Cross",
         "true_shape": "Cross",
         "pixel_error": 3.561083470625279
     },
@@ -625,7 +625,7 @@
             "x": 975.0,
             "y": 307.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 2.154151072211472
     },
@@ -634,7 +634,7 @@
             "x": 3054.0,
             "y": 514.0
         },
-        "predicted_shape": "Cross",
+        "verified_shape": "Cross",
         "true_shape": "Cross",
         "pixel_error": 4.09482955687045
     },
@@ -643,7 +643,7 @@
             "x": 375.0,
             "y": 2019.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 3.927577876599233
     },
@@ -652,7 +652,7 @@
             "x": 3160.0,
             "y": 1018.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 2.2887181233138705
     },
@@ -661,7 +661,7 @@
             "x": 1576.0,
             "y": 2699.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 4.642253066812683
     },
@@ -670,7 +670,7 @@
             "x": 2680.0,
             "y": 895.0
         },
-        "predicted_shape": "L-Shape",
+        "verified_shape": "L-Shape",
         "true_shape": "L-Shape",
         "pixel_error": 5.824257410981249
     },
@@ -679,7 +679,7 @@
             "x": 683.0,
             "y": 248.0
         },
-        "predicted_shape": "L-Shape",
+        "verified_shape": "L-Shape",
         "true_shape": "L-Shape",
         "pixel_error": 4.176416888619228
     },
@@ -688,7 +688,7 @@
             "x": 2889.0,
             "y": 2225.0
         },
-        "predicted_shape": "L-Shape",
+        "verified_shape": "L-Shape",
         "true_shape": "L-Shape",
         "pixel_error": 2.207074345328674
     },
@@ -697,7 +697,7 @@
             "x": 2540.0,
             "y": 1988.0
         },
-        "predicted_shape": "L-Shape",
+        "verified_shape": "L-Shape",
         "true_shape": "L-Shape",
         "pixel_error": 1.2416365499582303
     },
@@ -706,7 +706,7 @@
             "x": 298.0,
             "y": 1066.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 111.03764950000674
     },
@@ -715,7 +715,7 @@
             "x": 2200.0,
             "y": 895.0
         },
-        "predicted_shape": "L-Shape",
+        "verified_shape": "L-Shape",
         "true_shape": "L-Shape",
         "pixel_error": 4.4236632969373595
     },
@@ -724,7 +724,7 @@
             "x": 2473.0,
             "y": 2417.0
         },
-        "predicted_shape": "Cross",
+        "verified_shape": "Cross",
         "true_shape": "Cross",
         "pixel_error": 0.9298777637828741
     },
@@ -733,7 +733,7 @@
             "x": 2806.0,
             "y": 2064.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 0.5477522633828306
     },
@@ -742,7 +742,7 @@
             "x": 396.0,
             "y": 2429.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 1.6291680483928952
     },
@@ -751,7 +751,7 @@
             "x": 3924.0,
             "y": 2407.0
         },
-        "predicted_shape": "L-Shape",
+        "verified_shape": "L-Shape",
         "true_shape": "L-Shape",
         "pixel_error": 2.178520013470619
     },
@@ -760,7 +760,7 @@
             "x": 1844.0,
             "y": 1830.0
         },
-        "predicted_shape": "Square",
+        "verified_shape": "Square",
         "true_shape": "Square",
         "pixel_error": 2.758729518033344
     },
@@ -769,7 +769,7 @@
             "x": 765.0,
             "y": 1903.0
         },
-        "predicted_shape": "L-Shape",
+        "verified_shape": "L-Shape",
         "true_shape": "L-Shape",
         "pixel_error": 1.0082166194342361
     }
